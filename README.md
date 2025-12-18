@@ -181,8 +181,8 @@ The final Power BI dashboard enables:
 
 ## 👤 Author
 
-**Ahmed Ashry**  
-Data Engineer | Data Analyst
+**Khaled Aljarbou**  
+Data Team Leader
 
 ---
 
